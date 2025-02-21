@@ -29,3 +29,18 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Final Product
+
+_screenshot of landing page_
+!["screenshot of langing page"](https://github.com/RemiBorris/jungle-rails/blob/master/docs/landing%20page.png?raw=true)
+_example of sold out item_
+!["screenshot of sold out exmaple"](https://github.com/RemiBorris/jungle-rails/blob/master/docs/sold%20out.png?raw=true)
+_selection of categories_
+!["screenshot of categories"](https://github.com/RemiBorris/jungle-rails/blob/master/docs/categories.png?raw=true)
+_screenshot of checkout screen_
+!["screenshot of checkout screen"](https://github.com/RemiBorris/jungle-rails/blob/master/docs/checkout.png?raw=true)
+_screenshot of checkout screen_
+!["screenshot of payment screen"](https://github.com/RemiBorris/jungle-rails/blob/master/docs/payment.png?raw=true)
+_screenshot of order confirmation screen_
+!["screenshot of order confirmation screen"](https://github.com/RemiBorris/jungle-rails/blob/master/docs/order%20confirmation.png?raw=true)
